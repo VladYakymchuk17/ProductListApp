@@ -1,0 +1,92 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "CHECK PRINT SHIRT",
+      "imageUrl": "https://guesseu.scene7.com/is/image/GuessEU/M63H24W7JF0-L302-ALTGHOST?wid=1500&fmt=jpeg&qlt=80&op_sharpen=0&op_usm=1.0,1.0,5,0&iccEmbed=0",
+      "count": 10,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "200g",
+      "comments": [
+        {
+          "id": 1,
+          "productId": 1,
+          "description": "Great product!",
+          "date": "14:00 22.08.2021"
+        },
+        {
+          "id": 1761301475457,
+          "productId": 1,
+          "description": "Its a really good shirt!!!",
+          "date": "24/10/2025, 13:24"
+        },
+        {
+          "id": 1761302219084,
+          "productId": 1,
+          "description": "Super quality!!!!",
+          "date": "24/10/2025, 13:36"
+        },
+        {
+          "id": 1761307641519,
+          "productId": 1,
+          "description": "Amazing product",
+          "date": "24/10/2025, 15:07"
+        }
+      ]
+    },
+    {
+      "id": "1761309511154",
+      "name": "GUESS CONNECT WATCH",
+      "imageUrl": "http://guesseu.scene7.com/is/image/GuessEU/WC0001FMSWC-G5?wid=520&fmt=jpeg&qlt=80&op_sharpen=0&op_usm=1.0,1.0,5,0&iccEmbed=0",
+      "count": 15,
+      "size": {
+        "width": 50,
+        "height": 40
+      },
+      "weight": "150g",
+      "comments": [
+        {
+          "id": 1761310657911,
+          "productId": "1761309511154",
+          "description": "Strongly recommend buying it",
+          "date": "24/10/2025, 15:57"
+        }
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "productId": 1,
+      "description": "Great product!",
+      "date": "14:00 22.08.2021"
+    },
+    {
+      "id": "1761301475457",
+      "productId": 1,
+      "description": "Its a really good shirt!!!",
+      "date": "24/10/2025, 13:24"
+    },
+    {
+      "id": "1761302219084",
+      "productId": 1,
+      "description": "Super quality!!!!",
+      "date": "24/10/2025, 13:36"
+    },
+    {
+      "id": "1761307641519",
+      "productId": 1,
+      "description": "Amazing product",
+      "date": "24/10/2025, 15:07"
+    },
+    {
+      "id": 1761310657911,
+      "productId": "1761309511154",
+      "description": "Strongly recommend buying it",
+      "date": "24/10/2025, 15:57"
+    }
+  ]
+}
